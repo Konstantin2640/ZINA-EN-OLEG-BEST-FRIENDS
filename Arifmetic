@@ -1,0 +1,11 @@
+# ZINA-END-OLEG-BEST-FRIENDS
+Oleg end Zina
+package com.Konstantin.lesson_2;
+
+public class Arithmetic {
+    public static void main(String[] args) {
+        String x = "2640";
+        int y = Integer.parseInt(x);
+        System.out.print(y * 7);
+    }
+}
